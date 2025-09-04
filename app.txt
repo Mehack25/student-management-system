@@ -1,2 +1,1 @@
-Hello, I am Mahak Khandelwal
-Changes on feature-mahak_test
+Resolving conflicts
